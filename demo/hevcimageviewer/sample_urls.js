@@ -6,32 +6,32 @@ var sampleUrls = [
   {
     groupName: 'BPG Images (require disabling CORS)',
     urls: [
-      { url: 'http://bellard.org/bpg/lena_q36.bpg', desc: 'Lena (from BPG Web Site, QP36)' },
-      { url: 'http://bellard.org/bpg/003.bpg', desc: '003 (from BPG Web Site)' },
-      { url: 'http://bellard.org/bpg/005.bpg', desc: '003 (from BPG Web Site)' },
+      { url: 'https://bellard.org/bpg/lena_q36.bpg', desc: 'Lena (from BPG Web Site, QP36)' },
+      { url: 'https://bellard.org/bpg/003.bpg', desc: '003 (from BPG Web Site)' },
+      { url: 'https://bellard.org/bpg/005.bpg', desc: '003 (from BPG Web Site)' },
     ],
   },
   {
     groupName: 'HEVC MP4',
     urls: [
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_720p30_2M.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_720p30_2M.mp4',
         desc: '4EVER Video (720p, 8-bit)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_1080p30_4M.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_1080p30_4M.mp4',
         desc: '4EVER Video (1080p, 8-bit)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_1080p60_Main10_8M.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_1080p60_Main10_8M.mp4',
         desc: '4EVER Video (1080p, 10-bit)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_2160p60_12M.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_2160p60_12M.mp4',
         desc: '4EVER Video (2160p, 8-bit)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_2160p60_Main10_20M.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_2160p60_Main10_20M.mp4',
         desc: '4EVER Video (2160p, 10-bit)',
       },
     ],

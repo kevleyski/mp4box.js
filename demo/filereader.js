@@ -657,7 +657,7 @@ function createBoxTreeMapSVG(boxnodes) {
   select.append('option').attr('value', 'count').text('number of children');
   selectDiv.append('span').text(' of the box');
   /* from zoomable tree map */
-  /* http://mbostock.github.io/d3/talk/20111018/treemap.html */
+  /* https://mbostock.github.io/d3/talk/20111018/treemap.html */
   var w = 1280 - 80;
   var h = 800 - 180;
   var x = d3.scale.linear().range([0, w]);
@@ -785,7 +785,7 @@ function createBoxTreeMapSVG(boxnodes) {
 
 function createBoxPartition(boxnodes) {
   d3.select('#boxpartitionview').html('');
-  /* from Tree Partition example http://mbostock.github.io/d3/talk/20111018/partition.html */
+  /* from Tree Partition example https://mbostock.github.io/d3/talk/20111018/partition.html */
   var selectDiv = d3.select('#boxpartitionview').append('div');
   selectDiv.append('span').text("Display D3's partition of boxes based on the ");
   var select = selectDiv.append('select').attr('id', 'partitionSelect');

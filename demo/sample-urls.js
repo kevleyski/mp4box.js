@@ -19,11 +19,11 @@ var sampleUrls = [
         desc: 'Bad Influence (S04E13 from Archive.org, 20 min, unfragmented, AVC+AAC, 117MB)',
       },
       {
-        url: 'http://storage.googleapis.com/peer5_vod/sintel-2048-surround.mp4',
+        url: 'https://storage.googleapis.com/peer5_vod/sintel-2048-surround.mp4',
         desc: 'Sintel (from Peer5, 15 min, non-fragmented, non-progressive, 310MB)',
       },
       {
-        url: 'http://akamai-progressive.irt.de/irt_subs/webvtt/nick.mp4',
+        url: 'https://akamai-progressive.irt.de/irt_subs/webvtt/nick.mp4',
         desc: 'Nick and the roundabouts (from IRT, 5 min, non-fragmented, WebVTT in MP4, 77MB)',
       },
       {
@@ -40,12 +40,12 @@ var sampleUrls = [
     groupName: 'Non-fragmented files (require disabling CORS)',
     urls: [
       { url: 'https://a0.muscache.com/airbnb/static/Paris-P1-1.mp4', desc: 'AirBnB Paris video' },
-      { url: 'http://hubimg.com/x/vid/homepage_v03.mp4', desc: 'HubPages video' },
+      { url: 'https://hubimg.com/x/vid/homepage_v03.mp4', desc: 'HubPages video' },
       {
-        url: 'http://v.theonion.com/onionmedia/videos/videometa/2002/zen_mp4.mp4',
+        url: 'https://v.theonion.com/onionmedia/videos/videometa/2002/zen_mp4.mp4',
         desc: 'The Onion video',
       },
-      { url: 'http://content.jwplatform.com/videos/HkauGhRi-640.mp4', desc: 'JWPlayer video' },
+      { url: 'https://content.jwplatform.com/videos/HkauGhRi-640.mp4', desc: 'JWPlayer video' },
     ],
   },
   {
@@ -56,19 +56,19 @@ var sampleUrls = [
         desc: 'Video Counter (10min, fragmented, AVC Baseline)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-aaclc_high.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-aaclc_high.mp4',
         desc: 'DASH onDemand audio (fragmented, AAC High)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-aaclc_low.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-aaclc_low.mp4',
         desc: 'DASH onDemand audio (fragmented, AAC Low)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-h264bl_full.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-h264bl_full.mp4',
         desc: 'DASH onDemand video (fragmented, H.264/AVC Baseline Full HD)',
       },
       {
-        url: 'http://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-h264bl_low.mp4',
+        url: 'https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-onDemand/mp4-onDemand-h264bl_low.mp4',
         desc: 'DASH onDemand video (fragmented, H.264/AVC Baseline Low Resolution)',
       },
       { url: 'https://storage.googleapis.com/media-session/flac.mp4', desc: 'FLAC in ISO-BMFF' },

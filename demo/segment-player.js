@@ -12,9 +12,9 @@ var segments1 = {
 
 var segments2 = {
 	mime: 'video/mp4; codecs="avc1.640029"',
-	init: "http://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-live/mp4-live-h264bl_low-.mp4",
-	segs: [ "http://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-live/mp4-live-h264bl_low-1.m4s", 
-			"http://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-live/mp4-live-h264bl_low-2.m4s"]
+	init: "https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-live/mp4-live-h264bl_low-.mp4",
+	segs: [ "https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-live/mp4-live-h264bl_low-1.m4s", 
+			"https://download.tsi.telecom-paristech.fr/gpac/DASH_CONFORMANCE/TelecomParisTech/mp4-live/mp4-live-h264bl_low-2.m4s"]
 };
 */
 
